@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Curso Henry prueba
+Este repositorio es una prueba de como crear uno nuevo desde github
